@@ -1,0 +1,11 @@
+{
+  "name": "dirfiles",
+  "version": "0.0.1",
+  "description": "获取指定目录下的文件,可以读取子级内部的所有文件",
+  "main": "dirFiles.js",
+  "author": "ektx(zwl)",
+  "license": "MIT",
+  "dependencies": {
+    "get-file-type": "^0.0.2"
+  }
+}
